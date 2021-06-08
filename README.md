@@ -5,3 +5,8 @@ We performed the task of Node Classification on Cora dataset which is a citation
 Following notebooks are used :
 1. Keras_GNN(custom)_Cora_NodeClassification - referenced from : https://github.com/keras-team/keras-io/blob/master/examples/graph/ipynb/gnn_citations.ipynb
 2. PyTorchGeometric_GNN_Cora_NodeClassification - referenced from - https://colab.research.google.com/drive/14OvFnAXggxB8vM4e8vSURUp1TaKnovzX?usp=sharing
+
+Versions :
+Python : 3.7.9
+Tensor Flow : 2.5.0
+PyTorch : 1.8.1
